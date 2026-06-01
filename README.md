@@ -27,9 +27,9 @@ This repository is structured into modular project folders. Each folder contains
 
 | Folder Name | Project Title | Description | Status |
 | :--- | :--- | :--- | :--- |
-| 📁 `project_1` | **Todo CLI/Web Application** | A Python-based Todo application featuring JSON database storage and state management. | 🔄 In Progress |
-| 📁 `project_2` | *Upcoming Project* | Description will be updated upon assignment. | ⏳ Pending |
-| 📁 `project_3` | *Upcoming Project* | Description will be updated upon assignment. | ⏳ Pending |
+| 📁 `project_1` | **Todo Application** | Python-based application featuring JSON database storage and state management. | ✅ Completed |
+| 📁 `project_2` | **Project 2** | Python development core implementation. | ✅ Completed |
+| 📁 `project_3` | **Project 3** | Advanced Python logic and backend structure. | ✅ Completed |
 | 📁 `project_4` | *Upcoming Project* | Description will be updated upon assignment. | ⏳ Pending |
 | 📁 `project_5` | *Upcoming Project* | Description will be updated upon assignment. | ⏳ Pending |
 
@@ -47,4 +47,4 @@ This repository is structured into modular project folders. Each folder contains
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/abdullahjahangir123/decodelabs-python-internship.git](https://github.com/abdullahjahangir123/decodelabs-python-internship.git)s
+   git clone [https://github.com/abdullahjahangir123/decodelabs-python-internship.git](https://github.com/abdullahjahangir123/decodelabs-python-internship.git)
